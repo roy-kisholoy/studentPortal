@@ -15,7 +15,7 @@
     "@coreui/coreui": "^2.1.16",
     "@coreui/icons": "0.3.0",
     "@coreui/react": "^2.5.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
     "moment": "^2.29.1",
